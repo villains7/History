@@ -19,7 +19,11 @@
 ---
 # :hearts:GitHubに関して:spades:
 * `git add -A`→`git commit -m "[hoge]"`→`git push origin ブランチ名`
-
-　　　ローカルとリモートが違うよって言われたら
+* 　ローカルとリモートが違うよって言われたら
   `git fetch`→`git rebase origin/ブランチ名`
+---
+# :violin:Bootstrapについて:musical_keyboard:
+### メディアクエリって…？
+* 画面サイズによって色を変えることができる。
+
 

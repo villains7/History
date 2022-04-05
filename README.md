@@ -66,5 +66,5 @@
 * ちなみにviですぐ下に行きたい時は「o」押すとすぐ入力できる
 * logファイルに移動→ps_aux プロセスごとに一覧が見られる
 * kill プロセスID
-* rails s -e production で再起動
+* rails s -e production で再起動する
 * 現場ではクレデンシャルズ？のほうが主流。調べること

@@ -70,3 +70,8 @@
 * kill プロセスID
 * rails s -e production で再起動する
 * 現場ではクレデンシャルズ？のほうが主流。調べること
+
+
+
+配列を確認する時はincludes？を使う。アクティブレコードではexsist?
+

@@ -13,6 +13,14 @@
 * `command+F`検索（主に全角スペースの検索）
 ---
 
+# Ruby on Rails
+
+* render partial 'ファイル名'　で部分テンプレートを呼び出していることを明示的に表すことがある
+* render plain テキストをマークアップせずにブラウザに送信できる<br>
+https://railsguides.jp/layouts_and_rendering.html
+
+---
+
 # :crown:ER図について:doughnut:
 * FKがつくのは1対多の多のほう。
 * ER図は日本語で記載

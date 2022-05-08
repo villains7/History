@@ -15,8 +15,8 @@
 
 # Ruby on Rails
 
-* render partial 'ファイル名'　で部分テンプレートを呼び出していることを明示的に表すことがある
-* render plain テキストをマークアップせずにブラウザに送信できる<br>
+* `render partial 'ファイル名'　`で部分テンプレートを呼び出していることを明示的に表すことがある
+* `render plain` テキストをマークアップせずにブラウザに送信できる<br>
 https://railsguides.jp/layouts_and_rendering.html
 
 ---

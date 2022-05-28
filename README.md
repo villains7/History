@@ -96,5 +96,6 @@ https://railsguides.jp/layouts_and_rendering.html
 
 6.　管理者側でイベント登録をできるようにする
 　
-
+## Javaについて
+* 文字エラーによるコンパイルエラー発生時は`javac -encoding UTF-8`で解決
 

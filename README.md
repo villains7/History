@@ -98,4 +98,5 @@ https://railsguides.jp/layouts_and_rendering.html
 　
 ## Javaについて
 * 文字エラーによるコンパイルエラー発生時は`javac -encoding UTF-8`で解決
+* <strong>終わりの；忘れない</strong>
 
